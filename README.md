@@ -1,6 +1,8 @@
 # smart_patientmanagement_system
 
-A new Flutter application.
+This is a fluuter application that named smart patient Manaegement system which support firebase backend.
+![doctor home](https://user-images.githubusercontent.com/74234131/123301196-63b1d780-d4e9-11eb-99ef-ba2da477af31.PNG)
+
 
 ## Getting Started
 
