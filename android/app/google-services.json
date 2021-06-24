@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "104290700626",
+    "firebase_url": "https://smart-patient-mangement-system.firebaseio.com",
+    "project_id": "smart-patient-mangement-system",
+    "storage_bucket": "smart-patient-mangement-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104290700626:android:02faddac1c10be32b87e8b",
+        "android_client_info": {
+          "package_name": "com.example.smart_patient_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104290700626-4fiqbfv9ln9fi0be1ke7r3258ufthg78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjz5jmU1cnh6ezhsQ652OzRJ2GN-TcsDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104290700626-4fiqbfv9ln9fi0be1ke7r3258ufthg78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104290700626:android:5d97d5567fa991eab87e8b",
+        "android_client_info": {
+          "package_name": "com.example.smart_patientmanagement_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104290700626-4fiqbfv9ln9fi0be1ke7r3258ufthg78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjz5jmU1cnh6ezhsQ652OzRJ2GN-TcsDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104290700626-4fiqbfv9ln9fi0be1ke7r3258ufthg78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
