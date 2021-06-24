@@ -1,6 +1,6 @@
 # smart_patientmanagement_system
 
-A new Flutter application.
+This is a a Flutter application named Smart Patietn Management system.Which supports firebase backend.Make an appointment easily and track your serial.
 
 ## Getting Started
 
